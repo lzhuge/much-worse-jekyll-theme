@@ -1,12 +1,12 @@
-- title: "About"
-  href: "/about/"
-
 - title: "Research"
   href: "/research/"
 
 - title: "CV"
   href: "/cv/"
   
+- title: "Teaching"
+  href: "/teaching/"
+
 - title: "Contact"
   href: "/contact/"
 
