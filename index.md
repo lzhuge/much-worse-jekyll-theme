@@ -10,11 +10,11 @@ I am a PhD candidate in economics at Boston University. My research foucuses on 
 
 ## Contact
 
-#Liqun Zhuge <br />
+
 [Liqun Zhuge] <br />
 1050 Massachusetts Avenue, Cambridge, MA, 02138<br />
 Email: [zhuge@nber.org]
 
 
-[Yavin]: lzhuge.com
+[Liqun Zhuge]: lzhuge.com
 [zhuge@nber.org]: zhuge@nber.org
