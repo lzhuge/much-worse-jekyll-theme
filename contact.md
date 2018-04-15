@@ -4,5 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-instgram:lm_zhuge
+instagram: lm_zhuge
+
 email to zhuge@nber.org
