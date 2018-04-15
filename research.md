@@ -18,7 +18,7 @@ wip:
 
 ---
 
-## Working Paper
+### Working Paper
 
 {% assign thumbnail="left" %}
 
@@ -35,7 +35,7 @@ wip:
 
 {% endfor %}
 
-# Work in Process
+### Work in Process
 
 {% assign thumbnail="left" %}
 
