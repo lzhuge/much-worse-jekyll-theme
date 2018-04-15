@@ -10,7 +10,7 @@ Email: [zhuge@nber.org]
 
 Phone: ***-***-****
 
-Instgram: @lm_zhuge
+Instagram: [@lm_zhuge]
 
 **Department of Economics, Boston University**
 
@@ -20,6 +20,8 @@ Instgram: @lm_zhuge
 
 1050 Massachusetts Avenue, Cambridge, MA, USA 02138
 
-[lzhuge.com]: https://lzhuge.com
+[lzhuge.com]: https://www.lzhuge.com
 
 [zhuge@nber.org]: mailto:zhuge@nber.org
+
+[@lm_zhuge]: https://www.instagram.com/lm_zhuge/
