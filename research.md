@@ -10,19 +10,9 @@ pubs:
       note:    "(presented at Oz)"
       year:    "2016"
       url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
-
-
-
-
 ---
 
-## Publications (peer reviewed)
+## Working Paper
 
 {% assign thumbnail="left" %}
 
