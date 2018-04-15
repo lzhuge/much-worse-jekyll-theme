@@ -10,11 +10,11 @@ Email: [zhuge@nber.org]
 
 Phone: ***-***-****
 
-*Department of Economics, Boston University*
+**Department of Economics, Boston University**
 
 270 Bay State Road, Boston, MA, USA 02215
 
-*National Bureau of Economic Research*
+**National Bureau of Economic Research**
 
 1050 Massachusetts Avenue, Cambridge, MA, USA 02138
 
