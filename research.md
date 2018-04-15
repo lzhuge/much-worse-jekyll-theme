@@ -31,9 +31,6 @@ pubs:
 {% endfor %}
 
 ---
-layout: page
-permalink: /research/
-title: Research
 pubs:
       
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
