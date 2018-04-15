@@ -5,7 +5,9 @@ permalink: /contact/
 ---
 
 Website: [lzhuge.com]
+
 Email: [zhuge@nber.org]
+
 Phone: ***-***-****
 
 *Department of Economics, Boston University*
@@ -17,4 +19,5 @@ Phone: ***-***-****
 1050 Massachusetts Avenue, Cambridge, MA, USA 02138
 
 [lzhuge.com]: http: lzhuge.com
+
 [zhuge@nber.org]: mailto:zhuge@nber.org
