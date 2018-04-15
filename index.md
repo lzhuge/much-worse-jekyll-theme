@@ -1,6 +1,6 @@
+<br />
 ---
 layout: page
-<br />
 title: About
 permalink: /
 ---
