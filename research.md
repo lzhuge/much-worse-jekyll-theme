@@ -13,14 +13,17 @@ wp:
 wip:
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
       author:  "Dongyang Zhang, Liqun Zhuge"
+      journal: ""
       note:    "in Process"
       year:    "2018"
 
 ow:
     - title:   "Science’s 1%: How income inequality is getting worse in research"
       author:  "Corie Lok, Richard B. Freeman, etc."
+      journal: "Nature"
       note:    "Contributing Writer"
       year:    "2016"
+      url:     "https://www.nature.com/news/science-s-1-how-income-inequality-is-getting-worse-in-research-1.20651?WT.ec_id=NATURE-20160922&spMailingID=52357585&spUserID=MTA3NDk2MzQzMzM2S0&spJobID=1003755044&spReportId=MTAwMzc1NTA0NAS2"
 
 ---
 
@@ -41,7 +44,6 @@ ow:
 
 {% endfor %}
 
----
 ### Work in Process
 
 {% assign thumbnail="left" %}
@@ -59,7 +61,6 @@ ow:
 
 {% endfor %}
 
----
 ### Other Work
 
 {% assign thumbnail="left" %}
