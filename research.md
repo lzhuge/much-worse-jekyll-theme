@@ -10,7 +10,14 @@ pubs:
       note:    "at R&R"
       year:    "2018"
       url:     "http://publish-more-stuff.org"
-    
+ 
+
+    - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
+      author:  "Richard B. Freeman, Matthew T. Higgins, Liqun Zhuge"
+      journal: "A Journal"
+      note:    "at R&R"
+      year:    "2018"
+      url:     "http://publish-more-stuff.org"
 ---
 
 ## Working Paper
@@ -29,15 +36,6 @@ pubs:
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
-
-pubs:
-      
-    - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
-      author:  "Richard B. Freeman, Matthew T. Higgins, Liqun Zhuge"
-      journal: "A Journal"
-      note:    "at R&R"
-      year:    "2018"
-      url:     "http://publish-more-stuff.org"
     
 ## Work in Process
 
