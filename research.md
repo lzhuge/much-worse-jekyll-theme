@@ -11,12 +11,13 @@ pubs:
       year:    "2018"
       url:     "http://publish-more-stuff.org"
       
-       - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
-      author:  "Dongyang Zhang, Liqun Zhuge"
+    - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
+      author:  "Richard B. Freeman, Matthew T. Higgins, Liqun Zhuge"
       journal: "A Journal"
-      note:    "in process"
+      note:    "at R&R"
       year:    "2018"
       url:     "http://publish-more-stuff.org"
+    
 ---
 
 ## Working Paper
