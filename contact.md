@@ -3,8 +3,18 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-{% include social-links.html %}
 
-instagram: lm_zhuge
+Website: [lzhuge.com]
+Email: [zhuge@nber.org]
+Phone: ***-***-****
 
-email to zhuge@nber.org
+*Department of Economics, Boston University*
+
+270 Bay State Road, Boston, MA, USA 02215
+
+*National Bureau of Economic Research*
+
+1050 Massachusetts Avenue, Cambridge, MA, USA 02138
+
+[lzhuge.com]: http: lzhuge.com
+[zhuge@nber.org]: mailto:zhuge@nber.org
