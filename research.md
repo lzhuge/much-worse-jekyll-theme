@@ -41,6 +41,7 @@ ow:
 
 {% endfor %}
 
+---
 ### Work in Process
 
 {% assign thumbnail="left" %}
@@ -58,11 +59,12 @@ ow:
 
 {% endfor %}
 
+---
 ### Other Work
 
 {% assign thumbnail="left" %}
 
-{% for ow in page.wip %}
+{% for ow in page.ow %}
 {% if ow.image %}
 {% include image.html url=ow.image caption="" height="100px" align=thumbnail %}
 {% endif %}
