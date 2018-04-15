@@ -16,6 +16,12 @@ wip:
       note:    "in Process"
       year:    "2018"
 
+ow:
+    - title:   "Science’s 1%: How income inequality is getting worse in research"
+      author:  "Corie Lok, Richard B. Freeman, etc."
+      note:    "Contributing Writer"
+      year:    "2016"
+
 ---
 
 ### Working Paper
@@ -49,5 +55,22 @@ wip:
 {% if wip.note %} *({{wip.note}})*
 {% endif %} *{{wip.year}}* {% if wip.doi %}[[doi]({{wip.doi}})]{% endif %}
 {% if wip.media %}<br />Media: {% for article in wip.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+
+{% endfor %}
+
+### Other Work
+
+{% assign thumbnail="left" %}
+
+{% for ow in page.wip %}
+{% if ow.image %}
+{% include image.html url=ow.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+[**{{ow.title}}**]({% if ow.internal %}{{ow.url | prepend: site.baseurl}}{% else %}{{ow.url}}{% endif %})<br />
+{{ow.author}}<br />
+*{{ow.journal}}*
+{% if ow.note %} *({{ow.note}})*
+{% endif %} *{{ow.year}}* {% if ow.doi %}[[doi]({{ow.doi}})]{% endif %}
+{% if ow.media %}<br />Media: {% for article in ow.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
