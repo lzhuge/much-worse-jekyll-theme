@@ -30,7 +30,6 @@ pubs:
 
 {% endfor %}
 
----
 pubs:
       
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
@@ -40,7 +39,6 @@ pubs:
       year:    "2018"
       url:     "http://publish-more-stuff.org"
     
----
 ## Work in Process
 
 {% assign thumbnail="left" %}
