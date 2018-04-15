@@ -18,6 +18,6 @@ Phone: ***-***-****
 
 1050 Massachusetts Avenue, Cambridge, MA, USA 02138
 
-[lzhuge.com]: http: lzhuge.com
+[lzhuge.com]: https://lzhuge.com
 
 [zhuge@nber.org]: mailto:zhuge@nber.org
