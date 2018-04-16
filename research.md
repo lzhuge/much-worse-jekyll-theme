@@ -5,7 +5,7 @@ title: Research
 wp:
 
     - title:   "Regulation, Innovation, and the Porter Hypothesis: Examining Outcomes in Chinese Pollution Control Policy Areas"
-      author:  "Richard B. Freeman, Matthew T. Higgins, Liqun Zhuge"
+      author:  "Richard B. Freeman, Matthew T. Higgins, **Liqun Zhuge**"
       journal: "A Journal"
       note:    "at R&R"
       year:    "2018"
@@ -13,7 +13,7 @@ wp:
       
 wip:
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
-      author:  "Dongyang Zhang, Liqun Zhuge"
+      author:  "Dongyang Zhang, **Liqun Zhuge**"
       note:    "in Process"
       year:    "2018"
 
