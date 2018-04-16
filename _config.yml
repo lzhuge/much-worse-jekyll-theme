@@ -2,8 +2,8 @@ title: Liqun Zhuge
 description: Department of Economics, Boston University | 270 Bay State Road | Boston, MA 02215
 #sourcecode: "https://github.com/lzhuge/lzhuge.github.io"
 
-#permalink: blog/:year/:month/:day/:title
-#exclude: ["Makefile", "README.md"]
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
 
 #url: "http://lzhuge.github.io"     # the base hostname & protocol for your site
 #baseurl: "/"                   # the subpath of your site, e.g. /blog
