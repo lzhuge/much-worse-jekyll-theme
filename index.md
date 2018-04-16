@@ -12,6 +12,6 @@ I am a PhD candidate in economics at Boston University. My research interests ar
 
 Email: [zhuge-at-nber-dot-org]
 
-[zhuge@nber.org]: mailto:zhuge@nber.org
+[zhuge-at-nber-dot-org]: mailto:zhuge@nber.org
 
 <br />
