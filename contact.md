@@ -22,6 +22,6 @@ Instagram: [@lm_zhuge]
 
 [lzhuge.com]: https://www.lzhuge.com
 
-[zhuge@nber.org]: mailto:zhuge@nber.org
+[zhuge-at-nber-dot-org]: mailto:zhuge@nber.org
 
 [@lm_zhuge]: https://www.instagram.com/lm_zhuge/
