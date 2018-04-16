@@ -6,7 +6,7 @@ permalink: /contact/
 
 Website: [lzhuge.com]
 
-Email: [zhuge-at-nber-dot-org]
+Email: [zhuge@nber.org]
 
 Phone: ***-***-****
 
@@ -22,6 +22,6 @@ Instagram: [@lm_zhuge]
 
 [lzhuge.com]: https://www.lzhuge.com
 
-[zhuge-at-nber-dot-org]: mailto:zhuge@nber.org
+[zhuge@nber.org]: mailto:zhuge@nber.org
 
 [@lm_zhuge]: https://www.instagram.com/lm_zhuge/
