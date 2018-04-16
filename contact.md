@@ -6,7 +6,7 @@ permalink: /contact/
 
 Website: [lzhuge.com]
 
-Email: [zhuge@nber.org]
+Email: [zhuge-at-nber-dot-org]
 
 Phone: ***-***-****
 
