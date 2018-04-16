@@ -9,11 +9,12 @@ wp:
       journal: "A Journal"
       note:    "at R&R"
       year:    "2018"
+      url:  
       
 wip:
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
       author:  "Dongyang Zhang, Liqun Zhuge"
-      journal: ""
+      journal: " "
       note:    "in Process"
       year:    "2018"
 
