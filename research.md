@@ -14,7 +14,6 @@ wp:
 wip:
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
       author:  "Dongyang Zhang, Liqun Zhuge"
-      journal: " "
       note:    "in Process"
       year:    "2018"
 
