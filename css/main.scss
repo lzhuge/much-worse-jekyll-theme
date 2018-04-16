@@ -5,7 +5,7 @@
 
 
 $base-font-family: "Source Sans Pro", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
-$base-font-size:   13pt;
+$base-font-size:   x-large;
 $base-line-height: 1.5;
 
 $heading-font-family: $base-font-family;
@@ -38,10 +38,10 @@ $header-hover-url:  $url-color;
 $line-color:        $grey-light;
 
 // Width of the content area
-$content-width:    80em;
+$content-width:    50em;
 $content-min-width:15em;
 $mobile:           32em;
-$desktop:          80em;
+$desktop:          50em;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
