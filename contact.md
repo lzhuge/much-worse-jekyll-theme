@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+{% include image.html url="images/photo2.jpg" caption="Instagram: [@lm_zhuge]" width="300px" align="right" %}
+
 Website: [lzhuge.com]
 
 Email: [zhuge@nber.org]
