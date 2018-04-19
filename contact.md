@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-{% include image.html url="images/photo2.jpg" caption="Instagram: [@lm_zhuge]" width="300px" align="right" %}
+{% include image.html url="raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/images/photo2.jpg" caption="Instagram: [@lm_zhuge]" width="300px" align="right" %}
 
 Website: [lzhuge.com]
 
