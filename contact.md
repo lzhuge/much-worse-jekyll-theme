@@ -12,8 +12,6 @@ Email: [zhuge@nber.org]
 
 Phone: +61 0458-973-894
 
-Instagram: [@lm_zhuge]
-
 **Department of Economics, Boston University**
 
 270 Bay State Road, Boston, MA, USA 02215
