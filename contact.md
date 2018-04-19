@@ -4,13 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
-{% include image.html url="https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/images/photo2.jpg" caption="Instagram: [@lm_zhuge]" width="215px" align="right" %}
+{% include image.html url="https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/images/photo2.jpg" caption="" width="215px" align="right" %}
 
 Website: [lzhuge.com]
 
 Email: [zhuge@nber.org]
 
 Phone: +61 0458-973-894
+
+Instagram: [@lm_zhuge]
 
 **Department of Economics, Boston University**
 
