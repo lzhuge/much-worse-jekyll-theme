@@ -6,7 +6,7 @@ wp:
 
     - title:   "Regulation, Innovation, and the Porter Hypothesis: Examining Outcomes in Chinese Pollution Control Policy Areas"
       author:  "Richard B. Freeman, Matthew T. Higgins, **Liqun Zhuge**"
-      journal: "A Journal"
+      journal: "Economic Modelling"
       note:    "at R&R"
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Regulation%2C%20Innovation%2C%20and%20the%20Porter%20Hypothesis.pdf&hl=en_US"
@@ -27,7 +27,7 @@ ow:
 
 ---
 
-### Working Paper
+### Publication and Working Paper
 
 {% assign thumbnail="left" %}
 
