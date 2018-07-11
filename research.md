@@ -11,6 +11,12 @@ wp:
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Regulation%2C%20Innovation%2C%20and%20the%20Porter%20Hypothesis.pdf&hl=en_US"
       
+    - title:   "Are financial constraints an anxiety for firms to survive in the Chinese market?"
+      author:  "Dongyang Zhang, **Liqun Zhuge**"
+      note:    "Submitted"
+      year:    "2018"
+      url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/.pdf&hl=en_US"
+      
 wip:
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
       author:  "Dongyang Zhang, **Liqun Zhuge**"
