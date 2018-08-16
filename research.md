@@ -17,6 +17,13 @@ wp:
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Are%20financial%20constraints%20an%20anxiety%20for%20firms%20to%20survive%20in%20the%20Chinese%20market.pdf&hl=en_US"
       
+      - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
+      author:  "Dongyang Zhang, **Liqun Zhuge**"
+      note:    "Submitted"
+      year:    "2018"
+      url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Are%20financial%20constraints%20an%20anxiety%20for%20firms%20to%20survive%20in%20the%20Chinese%20market.pdf&hl=en_US"
+      
+      
 wip:
     - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
       author:  "Dongyang Zhang, **Liqun Zhuge**"
