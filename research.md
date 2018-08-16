@@ -25,8 +25,8 @@ wp:
       
       
 wip:
-    - title:   "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?"
-      author:  "Dongyang Zhang, **Liqun Zhuge**"
+    - title:   "Do financial constraints curb firm's efforts on pollution control: Evidence from Chinese manufacturing firms"
+      author:  "Zheming Tong, Dongyang Zhang, **Liqun Zhuge**"
       note:    "in Process"
       year:    "2018"
 
