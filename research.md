@@ -26,7 +26,7 @@ wp:
       
 wip:
     - title:   "Do financial constraints curb firm's efforts on pollution control: Evidence from Chinese manufacturing firms"
-      author:  "Zheming Tong, Dongyang Zhang, **Liqun Zhuge**"
+      author:  "Dongyang Zhang, Wencui Du1, **Liqun Zhuge**, Zheming Tong"
       note:    "in Process"
       year:    "2018"
 
