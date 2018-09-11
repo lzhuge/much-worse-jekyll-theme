@@ -23,7 +23,7 @@ wp:
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Firm%20Dynamics%20of%20Hi-Tech%20Start-ups.pdf&hl=en_US"
       
-      - title:   "Do financial constraints curb a firm’s efforts to control pollution: Evidence from Chinese manufacturing firms"
+    - title:   "Do financial constraints curb a firm’s efforts to control pollution: Evidence from Chinese manufacturing firms"
       author:  "Dongyang Zhang, Wencui Du, **Liqun Zhuge**, Zheming Tong"
       note:    "Under Review"
       year:    "2018"
