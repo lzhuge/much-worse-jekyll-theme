@@ -58,22 +58,6 @@ ow:
 
 {% endfor %}
 
-### Work in Process
-
-{% assign thumbnail="left" %}
-
-{% for wip in page.wip %}
-{% if wip.image %}
-{% include image.html url=wip.image caption="" height="100px" align=thumbnail %}
-{% endif %}
-[**{{wip.title}}**]({% if wip.internal %}{{wip.url | prepend: site.baseurl}}{% else %}{{wip.url}}{% endif %})<br />
-{{wip.author}}<br />
-*{{wip.journal}}*
-{% if wip.note %} *({{wip.note}})*
-{% endif %} *{{wip.year}}* {% if wip.doi %}[[doi]({{wip.doi}})]{% endif %}
-{% if wip.media %}<br />Media: {% for article in wip.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-
-{% endfor %}
 
 ### Other Work
 
