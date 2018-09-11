@@ -29,8 +29,6 @@ wp:
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Do%20financial%20constraints%20curb%20a%20firm%E2%80%99s%20efforts%20to%20control%20pollution.pdf&hl=en_US"
       
-      
-{%wip:%}
 
 
 ow:
