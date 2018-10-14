@@ -10,7 +10,7 @@ Website: [lzhuge.com]
 
 Email: [zhuge@nber.org]
 
-Phone: +1 747-334-9677
+Phone: +1 747-334-Nine Six Seven Seven
 
 Instagram: [@lm_zhuge]
 
