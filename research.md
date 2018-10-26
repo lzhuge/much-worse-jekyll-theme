@@ -11,6 +11,13 @@ wp:
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Regulation%2C%20Innovation%2C%20and%20the%20Porter%20Hypothesis.pdf&hl=en_US"
       
+    - title:   "Do financial constraints curb a firm’s efforts to control pollution: Evidence from Chinese manufacturing firms"
+      author:  "Dongyang Zhang, Wencui Du, **Liqun Zhuge**, Zheming Tong"
+      journal: "Journal of Cleaner Production"
+      note:    "at R&R"
+      year:    "2018"
+      url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Do%20financial%20constraints%20curb%20a%20firm%E2%80%99s%20efforts%20to%20control%20pollution.pdf&hl=en_US"
+      
     - title:   "Are financial constraints an anxiety for firms to survive in the Chinese market?"
       author:  "Dongyang Zhang, **Liqun Zhuge**"
       note:    "Under Review"
@@ -23,11 +30,6 @@ wp:
       year:    "2018"
       url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Firm%20Dynamics%20of%20Hi-Tech%20Start-ups.pdf&hl=en_US"
       
-    - title:   "Do financial constraints curb a firm’s efforts to control pollution: Evidence from Chinese manufacturing firms"
-      author:  "Dongyang Zhang, Wencui Du, **Liqun Zhuge**, Zheming Tong"
-      note:    "Under Review"
-      year:    "2018"
-      url: "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/lzhuge/lzhuge.github.io/master/paper/Do%20financial%20constraints%20curb%20a%20firm%E2%80%99s%20efforts%20to%20control%20pollution.pdf&hl=en_US"
       
 
 
